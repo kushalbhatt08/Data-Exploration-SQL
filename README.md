@@ -43,4 +43,24 @@ The dataset contains historical population figures for major world regions and c
 
 ---
 
-## 📂 Repository Structure
+## 🚀 How to Run This Project
+1. Clone the repository  
+2. Import the dataset into SQL Server  
+3. Open `population_queries.sql`  
+4. Execute queries block-by-block  
+5. Modify or extend analysis as needed  
+
+---
+
+## 📘 What I Learned
+- Using SQL for **real-world demographic analysis**  
+- Working with large time-series datasets  
+- Applying window functions for advanced trend calculations  
+- Presenting insights from raw tabular data  
+- Structuring analytical SQL scripts professionally  
+
+---
+
+## 📬 Contact  
+If you want to discuss this project or collaborate:  
+**LinkedIn:** *your link*  
