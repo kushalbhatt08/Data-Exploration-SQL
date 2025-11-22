@@ -63,4 +63,5 @@ The dataset contains historical population figures for major world regions and c
 
 ## 📬 Contact  
 If you want to discuss this project or collaborate:  
-**LinkedIn:** *your link*  
+**LinkedIn:** https://www.linkedin.com/in/kushal-bhatt08/  
+ 
